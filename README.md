@@ -47,7 +47,7 @@ Atualmente a desenvolver o projeto **StrikeZone**, uma plataforma de gestão de 
 
 ## 📫 Contactos
 - ✉️ **Email:** goncalo.murrinha@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/goncalo-murrinha]([https://www.linkedin.com/in/goncalo-murrinha/](https://www.linkedin.com/in/gon%C3%A7alo-murrinha-5594b0271/))  
+- 💼 **LinkedIn:** [linkedin.com/in/goncalo-murrinha](https://www.linkedin.com/in/gon%C3%A7alo-murrinha-5594b0271/)  
 - 🧑‍💻 **GitHub:** [github.com/Goncalo-Murrinha](https://github.com/Goncalo-Murrinha)
 
 ---
